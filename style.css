@@ -1,0 +1,22 @@
+body {
+  font-family: "Gilgan", sans-serif;
+  letter-spacing: 0.5px;
+  word-spacing: 0.1px;
+}
+
+#page {
+  min-height: 200px;
+  width: 60%;
+  min-width: 600px;
+  background: whitesmoke;
+  margin: 50px auto;
+  padding: 30px;
+  color: #000000;
+}
+
+.photo {
+  width: 15%;
+  min-width: 130px;
+  float: left;
+  margin-right: 20px;
+}
