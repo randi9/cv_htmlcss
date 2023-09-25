@@ -1,5 +1,5 @@
 body {
-  font-family: "Gilgan", sans-serif;
+  font-family: "Unispace";
   letter-spacing: 0.5px;
   word-spacing: 0.1px;
 }
@@ -19,4 +19,19 @@ body {
   min-width: 130px;
   float: left;
   margin-right: 20px;
+}
+
+.latihan {
+  font-family: serif;
+  font-size: 40px;
+  background-color: aqua;
+  color: rgb(98, 0, 255);
+}
+
+.pilih {
+  color: rgb(226, 0, 226);
+}
+
+.header {
+  border-bottom: 2px solid #dee7ec;
 }
