@@ -1,7 +1,8 @@
 body {
-  font-family: "Unispace";
+  font-family: "Arial";
   letter-spacing: 0.5px;
   word-spacing: 0.1px;
+  font-size: 18px;
 }
 
 #page {
@@ -34,4 +35,16 @@ body {
 
 .header {
   border-bottom: 2px solid #dee7ec;
+}
+
+.data-diri h1 {
+  color: rgb(4, 0, 255);
+}
+
+h3 {
+  color: rgb(4, 0, 255);
+}
+
+a {
+  color: black;
 }
